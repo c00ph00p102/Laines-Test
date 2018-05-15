@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Montserrat|Quicksand');
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'); 
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css'); 
+body { 
+     background-color: #fff;
+     font-family: 'Montserrat', cursive;
+}
+
+h1 {
+	text-transform: uppercase;
+	letter-spacing: 7.5px;
+    text-align: center;
+	font-family: 'Quicksand', sans-serif;
+}
+h2{
+	     font-family: 'Amatic SC', cursive;
+}
+p {
+font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+}
+.brand-img{
+	height: 100px;
+	width:100px;
+}
+.text-center{
+	text-align: center;
+}
+.miller-logo{
+	max-width: 500px;
+	max-heigh:500px;
+}
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navbar-inner{
+	padding:1%;
+}
+footer{
+	margin-top:75px;
+}
